@@ -5,7 +5,7 @@
 
 ### 🚀 About Me 
 💡 &nbsp; I'm currently working as a software developer, responsible for developing large-scale applications using various frameworks and libraries such as ReactJS, NodeJS, Ember Js.  \
-🎓&nbsp;I graduated from PSG College of Technology, Coimbatore (B.E, Electrical and Electronics Engineering (SW), Batch of 2014).\
+🎓&nbsp;I graduated from PSG College of Technology, Coimbatore (B.E, Electrical and Electronics Engineering (SW), Batch of 2014).  \
 <!-- 🌱 &nbsp;I'm a prospective Meng Student, looking to expand my knowledge on ML, Software Management and Testing.\ -->
 ✍️ &nbsp;In my free time, I play badminton, chess and pursue writing.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
