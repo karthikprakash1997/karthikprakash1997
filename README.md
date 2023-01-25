@@ -1,7 +1,7 @@
 
- <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Karthik Prakash 👨‍💻 </h1>
+ <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Karthik Prakash Sivakumar 👨‍💻 </h1>
 
-<div align="center"><strong >Software Developer | Tech Enthusiasts | Writer</strong> </div>
+<div align="center"><strong >Software Developer | Tech Enthusiasts </strong> </div>
 
 ### 🚀 About Me 
 💡 &nbsp; I'm currently working as a software developer, responsible for developing large-scale applications using various frameworks and libraries such as ReactJS, NodeJS, Ember Js.  \
