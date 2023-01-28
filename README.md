@@ -1,12 +1,13 @@
 
  <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Karthik Prakash Sivakumar 👨‍💻 </h1>
 
-<div align="center"><strong >Software Developer | Tech Enthusiasts </strong> </div>
+<div align="center"><strong >Software Developer | Tech Enthusiasts | Bibliophile </strong> </div>
 
 ### 🚀 About Me 
-💡 &nbsp; I'm currently working as a software developer, responsible for developing large-scale applications using various frameworks and libraries such as ReactJS, NodeJS, Ember Js.  \
+💡 &nbsp; I'm a graduate student pursuing MEng ECE in the University of Waterloo, with focus on software and AI/ML Specialization. \
+💡 &nbsp; I have 3.5+ years of experience as a software developer, responsible for developing large-scale applications using various frameworks and libraries such as ReactJS, NodeJS.  \
 🎓&nbsp;I graduated from PSG College of Technology, Coimbatore (B.E, Electrical and Electronics Engineering (SW), Batch of 2014).\
-✍️ &nbsp;In my free time, I play badminton, read books and pursue writing.\
+✍️ &nbsp;In my free time, I play badminton, chess, read books.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 <!-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience. -->
 ## ⚡ Tech Stack
