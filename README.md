@@ -4,7 +4,7 @@
 <div align="center"><strong >Software Developer | Tech Enthusiasts | Bibliophile </strong> </div>
 
 ### 🚀 About Me 
-🎓 &nbsp I'm a graduate student pursuing MEng ECE in the University of Waterloo, with focus on software and AI/ML Specialization. \
+🎓 &nbsp; I'm a graduate student pursuing MEng ECE in the University of Waterloo, with focus on software and AI/ML Specialization. \
 💡 &nbsp; I have 3.5+ years of experience as a software developer, responsible for developing large-scale applications using various frameworks and libraries such as ReactJS, NodeJS.  \
 ✍️ &nbsp;In my free time, I play badminton, chess, read books.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
