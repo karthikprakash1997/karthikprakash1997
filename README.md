@@ -8,7 +8,7 @@
 💡 &nbsp; I have 4+ years of experience as a software developer, responsible for developing large-scale applications using various frameworks and libraries such as ReactJS, NodeJS.  \
 ✍️ &nbsp;In my free time, I play badminton, chess, read books.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
-<!-- 📄 &nbsp;You can check my [website](https://karthikprakash.site/) for more details about my experience. -->
+📄 &nbsp;You can check my [website](https://karthikprakash.site/) for more details about my experience.
 ## ⚡ Tech Stack
 
 Here are a few things I've picked up along my journey.
