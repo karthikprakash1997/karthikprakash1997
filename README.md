@@ -35,7 +35,8 @@ Here are a few things I've picked up along my journey.
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/karthik-prakash-s)
-[website](https://karthikprakash.site/)
+
+ [website](https://karthikprakash.site/)
 
  or hit me a [mail](mailto:karthiksiva1997@gmail.com) .
 
