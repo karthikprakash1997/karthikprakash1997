@@ -1,7 +1,7 @@
 
  <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Karthik Prakash Sivakumar 👨‍💻 </h1>
 
-<div align="center"><strong >Full Stack Developer | AI/ML Enthusiasts | Bibliophile </strong> </div>
+<div align="center"><strong >Full Stack Developer | Applied AI Engineer | Bibliophile </strong> </div>
 
 ### 🚀 About Me 
 🎓 &nbsp; I'm a graduate student pursuing an MEng ECE at the University of Waterloo, focusing on software and AI/ML Specialization. \
