@@ -5,7 +5,7 @@
 
 ### 🚀 About Me 
 🎓 &nbsp; I'm a graduate student pursuing an MEng ECE at the University of Waterloo, focusing on software and AI/ML Specialization. \
-💡 &nbsp; I have 4+ years of experience as a software developer, responsible for developing large-scale applications using various frameworks and libraries such as ReactJS, React-Native, and NodeJS.  \
+💡 &nbsp; I have around 5 years of experience as a software developer, responsible for developing large-scale applications using various frameworks and libraries such as ReactJS, React-Native, and NodeJS.  \
 ✍️ &nbsp; In my free time, I play badminton, and chess, and read books.\
 💬 &nbsp; Feel free to contact me for general consulting, or discussions on the topics mentioned above!\
 📄 &nbsp;You can check my [website](https://karthikprakash.site/) for more details about my experience.
